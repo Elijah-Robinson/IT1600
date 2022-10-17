@@ -2,7 +2,7 @@
 
 ## I am currently going to school as *University of Missouri - Columbia* for a **Bachlors in IT**. My expected graduation is **December 2024**
 
-![Mizzou](https://www.google.com/imgres?imgurl=https%3A%2F%2Fshowme.missouri.edu%2Fwp-content%2Fuploads%2F2021%2F06%2FCampus-Beauty-26.jpg&imgrefurl=https%3A%2F%2Fshowme.missouri.edu%2Ftopics%2Fcampus%2F&tbnid=lX-BuxJLKnIt_M&vet=12ahUKEwip48TUr-j6AhWFQkIHHS76AQcQMygCegUIARDmAQ..i&docid=J-6dmjTNMna9zM&w=1280&h=720&q=mizzou&ved=2ahUKEwip48TUr-j6AhWFQkIHHS76AQcQMygCegUIARDmAQ)
+![Mizzou](image.png)
 
 > You can check out my IT degree and learn more about it [here](https://majors.missouri.edu/information-technology-bs/)
 

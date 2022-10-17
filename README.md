@@ -18,6 +18,6 @@
 * | My Family| [Family](./Family.md) |
 
 Look at my favorite animal, you might be surprised.
-![Favorite Animal](https://www.google.com/search?q=red+panda&rlz=1C1MMCH_enUS1004US1004&sxsrf=ALiCzsbC1SLwoFcxfj7tp94Nu62GeE4K_w:1666047755375&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi-6IzFr-j6AhUwBzQIHdrDAk0Q_AUoAXoECAMQAw&biw=1920&bih=937&dpr=1#imgrc=5WLHjApPKgoDqM)
+![Favorite Animal](image.png)
 
 [Return to home](./README.md)
