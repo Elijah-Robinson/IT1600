@@ -11,14 +11,14 @@
 >
 > You can __find your way around__ with these links *below*.
 
-| My Hobbies| [Hobbies](./Hobbies.md) |
-| My Education| [Education](./Education.md) |
-| My Skills| [Skills](./Skills.md) |
-| My Social accounts| [Social](./Social.md) |
-| My Family| [Family](./Family.md) |
+* | My Hobbies| [Hobbies](./Hobbies.md) |
+* | My Education| [Education](./Education.md) |
+* | My Skills| [Skills](./Skills.md) |
+* | My Social accounts| [Social](./Social.md) |
+* | My Family| [Family](./Family.md) |
 
 
 
-![Picture 2]()
+![Favorite Animal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeographical.co.uk%2Fwildlife%2Fred-pandas-closer-to-extinction&psig=AOvVaw3Vjyilh3hkQamEhOhfiFWq&ust=1666132507432000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiq5LSp6PoCFQAAAAAdAAAAABAE)
 
 [return to home](./README.md)

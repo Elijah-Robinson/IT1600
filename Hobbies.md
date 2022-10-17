@@ -9,8 +9,14 @@
 5. Playing video games.
 
 
-[**My** Personal Workout Split](https://www.menshealth.com/uk/building-muscle/a38199992/push-pull-legs/)
-[Favorite Sports Team](https://www.chiefs.com/)
-[Favorite Video Game](https://store.steampowered.com/app/221100/DayZ/)
+* [**My** Personal Workout Split](https://www.menshealth.com/uk/building-muscle/a38199992/push-pull-legs/)
+* [Favorite Sports Team](https://www.chiefs.com/)
+* [Favorite Video Game](https://store.steampowered.com/app/221100/DayZ/)
 
+* | My Hobbies| [Hobbies](./Hobbies.md) |
+* | My Education| [Education](./Education.md) |
+* | My Skills| [Skills](./Skills.md) |
+* | My Social accounts| [Social](./Social.md) |
+* | My Family| [Family](./Family.md) |
+* 
 [return to home page](./README.md)
