@@ -18,6 +18,6 @@
 * | My Family| [Family](./Family.md) |
 
 Look at my favorite animal, you might be surprised.
-![Favorite Animal](image.png)
+[Favorite Animal Picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fplantbasednews.org%2Fnews%2Fenvironment%2Fhumans-red-pandas-extinction-new-study%2F&psig=AOvVaw0bNggJdBzr3NVuw_jRUH7H&ust=1666134498911000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKivqOqw6PoCFQAAAAAdAAAAABAE)
 
 [Return to home](./README.md)

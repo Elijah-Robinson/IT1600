@@ -2,7 +2,7 @@
 
 ## I am currently going to school as *University of Missouri - Columbia* for a **Bachlors in IT**. My expected graduation is **December 2024**
 
-[Mizzou](https://www.poynter.org/wp-content/uploads/2020/04/shutterstock_1532213540-scaled.jpg)
+[Mizzou Picture](https://www.poynter.org/wp-content/uploads/2020/04/shutterstock_1532213540-scaled.jpg)
 
 > You can check out my IT degree and learn more about it [here](https://majors.missouri.edu/information-technology-bs/)
 
