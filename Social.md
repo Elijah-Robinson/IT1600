@@ -13,7 +13,7 @@
 
 * [Link to my *personal* Instagram](https://www.instagram.com/elijah_r17/?next=%2F)
 
-* ![Picture of friends](https://github.com/Elijah-Robinson/IT1000/blob/main/New%20folder/IMG_4627.jpg)
+![Picture of friends](https://github.com/Elijah-Robinson/IT1000/blob/main/New%20folder/IMG_4627.jpg)
 
 * | My Hobbies| [Hobbies](./Hobbies.md) |
 * | My Education| [Education](./Education.md) |
