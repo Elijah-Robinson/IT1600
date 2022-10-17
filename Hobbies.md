@@ -1,7 +1,16 @@
-# ==Home Page==
+# **My Hobbies**
 
-## Hi I am *Elijah Robinson*
+> I like to do alot of things on my free time so I will list my 5 favorite things now.
 
-### I am currently going to school as University of Missouri - Columbia for a bachlors in IT. My expected graduation is December 2024
+1. Working out and staying healthy.
+2. Hanging out with friends.
+3. Seeing my [family](./Family.md)
+4. Watching sports.
+5. Playing video games.
+
+
+[**My** Personal Workout Split](https://www.menshealth.com/uk/building-muscle/a38199992/push-pull-legs/)
+[Favorite Sports Team](https://www.chiefs.com/)
+[Favorite Video Game](https://store.steampowered.com/app/221100/DayZ/)
 
 [return to home page](./README.md)
