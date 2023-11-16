@@ -6,7 +6,7 @@
 2. Hanging out with friends.
 3. Seeing my [family](./Family.md)
 4. Watching sports.
-5. Playing video games.
+5. Board Games
 
 
 * [**My** Personal Workout Split](https://www.menshealth.com/uk/building-muscle/a38199992/push-pull-legs/)
