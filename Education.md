@@ -11,6 +11,7 @@
 >   - Simple question here. What programming language is this? `Print(Hello World)`
 >   - Second simple question. Which programming language is this? `let dog = "Bull Dog";`
 > - Trying to critically think feels like you are working out a muscle, but that just happens to be your brain.
+> - There are so many avenues you can take, different paths, which make it so expansive.
 
 
 * | My Hobbies| [Hobbies](./Hobbies.md) |
