@@ -9,7 +9,7 @@
 
 [Practice safe drinking!](https://www.cdc.gov/alcohol/faqs.htm#:~:text=To%20reduce%20the%20risk%20of,days%20when%20alcohol%20is%20consumed.)
 
-**__Feel free__** to DM my instgram and disagree. Link is below h8er
+**__Feel free__** to DM my instgram and disagree. Link is below here
 
 * [Link to my *personal* Instagram](https://www.instagram.com/elijah_r17/?next=%2F)
 
